@@ -1,0 +1,10 @@
+.navbar{
+    position: absolute;
+    right: 60px;
+}
+
+.counter{
+    font-size: 0.75em;
+    vertical-align: super;
+    margin-left: 2px;
+}
